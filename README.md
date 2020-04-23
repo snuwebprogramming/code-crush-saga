@@ -57,6 +57,6 @@ https://codesandbox.io/s/naughty-lamport-t5xgw?file=/src/index.js
 ## ETC
 본인의 학번이름으로 index.html을 포함한 파일을 zip으로 압축하여 제출(2007-11186.zip)
 
-5월 2일 자정까지 제출이며, 5.5일까지 추가로 받을 예정. 딜레이 하루당 5%씩 감점.
+5월 2일 23:59:59까지 제출이며, 5.5일까지 추가로 받을 예정. 딜레이 하루당 5%씩 감점.
 
 질문은 github 이슈를 통해 받습니다.
