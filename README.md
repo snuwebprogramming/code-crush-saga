@@ -27,7 +27,6 @@ https://codesandbox.io/s/naughty-lamport-t5xgw?file=/src/index.js
 
 ## 감점 요인
 
-- 스켈레톤 코드 기반으로 작성하지 않을 경우
 - 기능 오동작(버그)
 - example...
   - 점수판의 미동작
