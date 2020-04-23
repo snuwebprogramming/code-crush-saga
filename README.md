@@ -10,8 +10,9 @@ https://codesandbox.io/s/naughty-lamport-t5xgw?file=/src/index.js
 
 
 ## 기본 스펙
+0. 구글 크롬에서 동작. index.html파일을 열어서 실행
 
-1. form을 이용하여, width(6~10), height(6~10)의 보드가 초기화된다.
+1. form을 이용하여, width(6 ~ 10), height(6 ~ 10)의 보드가 초기화된다.
 
 2. Cube의 색은 6가지로 이루어진다.
 
@@ -31,9 +32,20 @@ https://codesandbox.io/s/naughty-lamport-t5xgw?file=/src/index.js
 
 - 스켈레톤 코드 기반으로 작성하지 않을 경우
 - 기능 오동작(버그)
+- example...
+  - 점수판의 미동작
+  - 보드 크기 이하 or 이상으로 생성 가능
+  - 함수가 무한루프로 동작
+  - 인접하지 않은 블록끼리 스왑이 됨
+  - 3-match가 제대로 일어나지 않음
+  - 블록이 새로 생성되지 않음
+  - 새로 생성된 블럭에서 3-match가 일어나지 않음
+  
 - 변수명이 난잡할 경우
 - 함수의 역할이 너무 방대할 경우
 - 쓸모없는 코드들이 필요 이상 작성된 경우
+- 블록 색 판별이 불가능한 등의 채점을 필요 이상으로 방해하는 UI
+- 파일 형식이 잘못된 경우
 
 ## 추가 스펙 (가점)
 
@@ -47,6 +59,7 @@ https://codesandbox.io/s/naughty-lamport-t5xgw?file=/src/index.js
 
 
 ## ETC
+본인의 학번이름으로 index.html을 포함한 파일을 zip으로 압축하여 제출(2007-11186.zip)
 
 5월 2일 자정까지 제출이며, 5.5일까지 추가로 받을 예정. 딜레이 하루당 5%씩 감점.
 
